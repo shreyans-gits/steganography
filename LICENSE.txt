@@ -1,0 +1,17 @@
+Copyright (c) 2026 Shreyans Sahu and Srikar B.
+
+All Rights Reserved.
+
+This project is made publicly available for portfolio and demonstration purposes only.
+
+Permission is granted to view, fork, and reference this repository for personal, educational, and non-commercial purposes only.
+
+You may not:
+- Copy substantial portions of the source code for your own projects
+- Redistribute this project or modified versions of it
+- Use this project or its code for commercial purposes
+- Represent this work as your own
+
+For any use beyond the permissions above, explicit written permission from the authors is required.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
